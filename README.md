@@ -39,3 +39,7 @@ GitHub Pages serves the same files.
 ## Screenshots
 
 Not included. The live page is the review surface.
+
+## Related UI/UX design notes
+
+This fictional landing page is a useful example for thinking about first-screen clarity, responsive layout, and contact-form usability. For Korean-language website and inquiry-flow design guidance, see [MODERUN's website & UX design notes](https://1oohyun.store/moderun-preview/guide-inquiry-flow.html?utm_source=github&utm_medium=readme&utm_campaign=millford_demo) or [MODERUN's website design overview](https://1oohyun.store/moderun-preview/?utm_source=github&utm_medium=readme&utm_campaign=millford_demo). These are additional resources; the demo is not a client project.
